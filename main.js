@@ -49,4 +49,6 @@ function EmailAddressSubmit() {
     erroricon.style.visibility = "hidden";
 
     document.querySelector('[name="inputbox"]').style.border = "2px solid hsl(0, 36%, 70%)";
+
+    alert(submitmsg);
 }
