@@ -267,9 +267,9 @@ header {
         justify-content: center;
 
         top:0;
-        right:30px;
-        transform: translateY(40%);
-        height:32px;
+        right:90px;
+        transform: translateY(85%);
+        height:20px;
         visibility: hidden;
     }
 
